@@ -1,4 +1,4 @@
-# ** Uber end to end data pipeline with GCP | Data Engineering Project | Data Analytics **
+# **Uber end to end data pipeline with GCP | Data Engineering Project | Data Analytics**
 
 ## **Introduction**
 
